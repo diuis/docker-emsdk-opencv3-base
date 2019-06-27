@@ -1,4 +1,4 @@
-FROM diuis/docker-emsdk-installed:18.10-python2
+FROM diuis/docker-emsdk-installed:18.10-python3
 
 ARG OPENCV_ARCHIVE=https://github.com/opencv/opencv/tarball/3.4.6
 
